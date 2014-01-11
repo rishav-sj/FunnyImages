@@ -2,7 +2,7 @@
 
 <Deployment xmlns="http://schemas.microsoft.com/windowsphone/2012/deployment" AppPlatformVersion="8.0">
   <DefaultLanguage xmlns="" code="en-US"/>
-  <App xmlns="" ProductID="{ed661cc0-7224-477a-9c68-aaa4ecd4c319}" Title="Funny_Images_WP_App" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal"  Author="Funny_Images_WP_App author" Description="Sample description" Publisher="Funny_Images_WP_App" PublisherID="{31a84668-970c-4c14-8cb8-d339358bc85b}">
+  <App xmlns="" ProductID="{66cc558c-431e-492f-ac56-2a5c6ace61af}" Title="Funny_Images_WP_App" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal"  Author="Funny_Images_WP_App author" Description="Sample description" Publisher="Funny_Images_WP_App" PublisherID="{788847e8-52f9-40b6-bae0-8d71cc7c1918}">
     <IconPath IsRelative="true" IsResource="false">Assets\ApplicationIcon.png</IconPath>
     <Capabilities>
       <Capability Name="ID_CAP_NETWORKING"/>
